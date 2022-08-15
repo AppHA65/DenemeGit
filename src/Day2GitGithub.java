@@ -23,5 +23,8 @@ Not: Github ogrendim.
 6-) git pull --> Remote (yani uzak repo) dosyalarimizi guncellemek icin kullanilir.
 
   */
+public static void main(String[] args) {
+    System.out.println("branch deneme1");
+}
 
 }
